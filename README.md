@@ -1,13 +1,13 @@
-##Instructions:
+## Instructions:
 1. Load main.ipynb into Google Collab
 2. Add huggingface token called 'HF_TOKEN' as Collab secret
 3. Select A100 or L4 as GPU
 4. Run all cells
 
-##Video:
+## Video:
 https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0af1a6fe-09ce-4fa7-ad46-b43300592972
 
-##Misc.
+## Misc.
 Dataset Description
 
     Source: Raw Amazon product metadata.
